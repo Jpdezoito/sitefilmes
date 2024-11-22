@@ -1,0 +1,41 @@
+/* Estilos gerais para todas as páginas */
+body {
+    font-family: sans-serif;
+    margin: 20px;
+  }
+  
+  h1 {
+    text-align: center;
+  }
+
+  #barra-pesquisa {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    box-sizing: border-box;
+  }
+  
+  /* Estilos para o índice */
+  #indice {
+    text-align: center;
+    margin-bottom: 20px;
+  }
+  
+  #indice a {
+    display: inline-block;
+    margin: 5px;
+    padding: 10px;
+    background-color: #eee;
+    text-decoration: none;
+  }
+  
+  /* Estilos para a lista de filmes */
+  #lista-filmes {
+    margin-top: 20px;
+  }
+  
+  #lista-filmes h2 {
+    margin-top: 30px;
+  }
